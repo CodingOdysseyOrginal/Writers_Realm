@@ -1,8 +1,12 @@
-# React + Vite
+# Writer's Realm
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description 
 
-Currently, two official plugins are available:
+- I decided to make this problem to tackle the issue with being creative. It can be pretty daunting to open a Word document and begin to write from scratch so I wanted to create a platform where users can log in and set how many chapters they want and write and edit each chapter but also publish that chapter to a communicate of other writes and hear feedback about the project they have. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+
+- React, Express, Node.js, Husky, JavaScript, Vitest, PlayWight, Tailwind, supabase
+
+## MVP 1 
+
