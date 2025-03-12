@@ -1,12 +1,23 @@
 # Writer's Realm
 
-## Description 
+## Description
 
-- I decided to make this problem to tackle the issue with being creative. It can be pretty daunting to open a Word document and begin to write from scratch so I wanted to create a platform where users can log in and set how many chapters they want and write and edit each chapter but also publish that chapter to a communicate of other writes and hear feedback about the project they have. 
+Writer's Realm is a platform designed to help writers overcome the daunting challenge of starting from scratch. Instead of staring at a blank document, users can log in, set the number of chapters they want, and begin writing and editing their work. The platform also allows writers to publish their chapters, share them with a community of fellow writers, and receive valuable feedback on their projects.
 
 ## Tech Stack
 
-- React, Express, Node.js, Husky, JavaScript, Vitest, PlayWight, Tailwind, supabase
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Express, Node.js
+- **Authentication & Database:** Supabase
+- **Testing:** Vitest, Playwright
+- **Development Tools:** Husky
 
-## MVP 1 
+## Key Features
+
+- **User Authentication**: Secure sign-up and login using Supabase Auth, allowing users to create personal profiles.
+- **Chapter Writing & Storage**: Users can create, edit, and store their chapters in a database, accessible only to the author.
+- **Content Management**: Edit or delete stored chapters as needed.
+- **Publishing & Feedback**: Users can publish chapters for public viewing, where others can leave comments and provide feedback.
+
+More features and improvements will be added as the project evolves!
 
